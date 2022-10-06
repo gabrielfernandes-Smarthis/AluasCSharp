@@ -1,0 +1,6 @@
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\00_Biblioteca\bin\Debug\00_Biblioteca.dll
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\00_Biblioteca\bin\Debug\00_Biblioteca.pdb
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\00_Biblioteca\obj\Debug\00_Biblioteca.csproj.AssemblyReference.cache
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\00_Biblioteca\obj\Debug\00_Biblioteca.csproj.CoreCompileInputs.cache
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\00_Biblioteca\obj\Debug\00_Biblioteca.dll
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\00_Biblioteca\obj\Debug\00_Biblioteca.pdb

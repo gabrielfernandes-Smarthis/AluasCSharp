@@ -1,0 +1,8 @@
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\bin\Debug\Plimorfismo.exe.config
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\bin\Debug\Plimorfismo.exe
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\bin\Debug\Plimorfismo.pdb
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\obj\Debug\Plimorfismo.csproj.AssemblyReference.cache
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\obj\Debug\Plimorfismo.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\obj\Debug\Plimorfismo.csproj.CoreCompileInputs.cache
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\obj\Debug\Plimorfismo.exe
+G:\AulasC#\POO\Aulas\POO\Plimorfismo\obj\Debug\Plimorfismo.pdb

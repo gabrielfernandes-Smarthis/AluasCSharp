@@ -1,0 +1,8 @@
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\bin\Debug\exercicioPooPokedex.exe.config
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\bin\Debug\exercicioPooPokedex.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\bin\Debug\exercicioPooPokedex.pdb
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\obj\Debug\exercicioPooPokedex.csproj.AssemblyReference.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\obj\Debug\exercicioPooPokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\obj\Debug\exercicioPooPokedex.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\obj\Debug\exercicioPooPokedex.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooPokedex\exercicioPooPokedex\obj\Debug\exercicioPooPokedex.pdb

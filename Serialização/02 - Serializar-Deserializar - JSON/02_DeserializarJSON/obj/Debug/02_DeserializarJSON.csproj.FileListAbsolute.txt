@@ -1,0 +1,11 @@
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\bin\Debug\02_DeserializarJSON.exe.config
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\bin\Debug\02_DeserializarJSON.exe
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\bin\Debug\02_DeserializarJSON.pdb
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\bin\Debug\00_Biblioteca.dll
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\bin\Debug\00_Biblioteca.pdb
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\obj\Debug\02_DeserializarJSON.csproj.AssemblyReference.cache
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\obj\Debug\02_DeserializarJSON.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\obj\Debug\02_DeserializarJSON.csproj.CoreCompileInputs.cache
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\obj\Debug\02_DeserializarJSON.csproj.CopyComplete
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\obj\Debug\02_DeserializarJSON.exe
+G:\AulasC#\Serialização\02 - Serializar-Deserializar - JSON\02_DeserializarJSON\obj\Debug\02_DeserializarJSON.pdb

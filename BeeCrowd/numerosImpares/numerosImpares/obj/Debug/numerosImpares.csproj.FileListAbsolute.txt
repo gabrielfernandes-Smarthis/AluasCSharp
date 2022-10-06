@@ -1,0 +1,8 @@
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\bin\Debug\numerosImpares.exe.config
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\bin\Debug\numerosImpares.exe
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\bin\Debug\numerosImpares.pdb
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\obj\Debug\numerosImpares.csproj.AssemblyReference.cache
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\obj\Debug\numerosImpares.csproj.SuggestedBindingRedirects.cache
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\obj\Debug\numerosImpares.csproj.CoreCompileInputs.cache
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\obj\Debug\numerosImpares.exe
+D:\AulasC#\BeeCrowd\numerosImpares\numerosImpares\obj\Debug\numerosImpares.pdb

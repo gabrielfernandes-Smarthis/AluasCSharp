@@ -1,0 +1,8 @@
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\obj\Debug\pooExercicioCriarContaBanco.csproj.AssemblyReference.cache
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\obj\Debug\pooExercicioCriarContaBanco.csproj.SuggestedBindingRedirects.cache
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\obj\Debug\pooExercicioCriarContaBanco.csproj.CoreCompileInputs.cache
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\bin\Debug\pooExercicioCriarContaBanco.exe.config
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\bin\Debug\pooExercicioCriarContaBanco.exe
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\bin\Debug\pooExercicioCriarContaBanco.pdb
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\obj\Debug\pooExercicioCriarContaBanco.exe
+D:\POO\pooExercicioCriarContaBanco\pooExercicioCriarContaBanco\obj\Debug\pooExercicioCriarContaBanco.pdb

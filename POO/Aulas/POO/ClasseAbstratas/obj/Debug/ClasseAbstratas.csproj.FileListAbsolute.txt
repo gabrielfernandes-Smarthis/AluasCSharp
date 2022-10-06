@@ -1,0 +1,8 @@
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\obj\Debug\ClasseAbstratas.csproj.AssemblyReference.cache
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\obj\Debug\ClasseAbstratas.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\obj\Debug\ClasseAbstratas.csproj.CoreCompileInputs.cache
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\bin\Debug\ClasseAbstratas.exe.config
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\bin\Debug\ClasseAbstratas.exe
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\bin\Debug\ClasseAbstratas.pdb
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\obj\Debug\ClasseAbstratas.exe
+G:\AulasC#\POO\Aulas\POO\ClasseAbstratas\obj\Debug\ClasseAbstratas.pdb

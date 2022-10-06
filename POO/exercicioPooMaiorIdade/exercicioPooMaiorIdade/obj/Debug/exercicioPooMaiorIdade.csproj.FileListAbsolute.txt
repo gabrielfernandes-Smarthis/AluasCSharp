@@ -1,0 +1,8 @@
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\obj\Debug\exercicioPooMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\obj\Debug\exercicioPooMaiorIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\obj\Debug\exercicioPooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\bin\Debug\exercicioPooMaiorIdade.exe.config
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\bin\Debug\exercicioPooMaiorIdade.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\bin\Debug\exercicioPooMaiorIdade.pdb
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\obj\Debug\exercicioPooMaiorIdade.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooMaiorIdade\exercicioPooMaiorIdade\obj\Debug\exercicioPooMaiorIdade.pdb

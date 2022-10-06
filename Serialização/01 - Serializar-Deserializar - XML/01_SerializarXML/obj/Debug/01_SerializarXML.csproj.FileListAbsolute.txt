@@ -1,0 +1,11 @@
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\bin\Debug\01_SerializarXML.exe.config
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\bin\Debug\01_SerializarXML.exe
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\bin\Debug\01_SerializarXML.pdb
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\bin\Debug\00_Biblioteca.dll
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\bin\Debug\00_Biblioteca.pdb
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.AssemblyReference.cache
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.CoreCompileInputs.cache
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.CopyComplete
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\obj\Debug\01_SerializarXML.exe
+G:\AulasC#\Serialização\01 - Serializar-Deserializar - XML\01_SerializarXML\obj\Debug\01_SerializarXML.pdb

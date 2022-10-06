@@ -1,0 +1,8 @@
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\bin\Debug\tratamentoExecoes.exe.config
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\bin\Debug\tratamentoExecoes.exe
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\bin\Debug\tratamentoExecoes.pdb
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\obj\Debug\tratamentoExecoes.csproj.AssemblyReference.cache
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\obj\Debug\tratamentoExecoes.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\obj\Debug\tratamentoExecoes.csproj.CoreCompileInputs.cache
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\obj\Debug\tratamentoExecoes.exe
+G:\AulasC#\TratamentoDeExeções\tratamentoExecoes\tratamentoExecoes\obj\Debug\tratamentoExecoes.pdb

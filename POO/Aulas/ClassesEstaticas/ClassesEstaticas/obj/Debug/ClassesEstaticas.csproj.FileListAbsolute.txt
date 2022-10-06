@@ -1,0 +1,8 @@
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\bin\Debug\ClassesEstaticas.exe.config
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\bin\Debug\ClassesEstaticas.exe
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\bin\Debug\ClassesEstaticas.pdb
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\obj\Debug\ClassesEstaticas.csproj.AssemblyReference.cache
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\obj\Debug\ClassesEstaticas.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\obj\Debug\ClassesEstaticas.csproj.CoreCompileInputs.cache
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\obj\Debug\ClassesEstaticas.exe
+G:\AulasC#\POO\ClassesEstaticas\ClassesEstaticas\obj\Debug\ClassesEstaticas.pdb

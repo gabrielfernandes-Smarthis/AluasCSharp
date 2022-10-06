@@ -1,0 +1,8 @@
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\bin\Debug\exercicioPooProva.exe.config
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\bin\Debug\exercicioPooProva.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\bin\Debug\exercicioPooProva.pdb
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\obj\Debug\exercicioPooProva.csproj.AssemblyReference.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\obj\Debug\exercicioPooProva.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\obj\Debug\exercicioPooProva.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\obj\Debug\exercicioPooProva.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\exercicioPooProva\exercicioPooProva\obj\Debug\exercicioPooProva.pdb

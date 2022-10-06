@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "ClasseAbstratas\Heranca.csproj", "{9A341A51-0E64-4B1A-A321-119D25B9346F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plimorfismo", "Plimorfismo\Plimorfismo.csproj", "{A708E46D-04E2-4A56-90DC-15184A068504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A341A51-0E64-4B1A-A321-119D25B9346F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A341A51-0E64-4B1A-A321-119D25B9346F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A341A51-0E64-4B1A-A321-119D25B9346F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A341A51-0E64-4B1A-A321-119D25B9346F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A708E46D-04E2-4A56-90DC-15184A068504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A708E46D-04E2-4A56-90DC-15184A068504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A708E46D-04E2-4A56-90DC-15184A068504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A708E46D-04E2-4A56-90DC-15184A068504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB647BDD-8695-4A4F-A972-5EDC6F8635F8}
+	EndGlobalSection
+EndGlobal

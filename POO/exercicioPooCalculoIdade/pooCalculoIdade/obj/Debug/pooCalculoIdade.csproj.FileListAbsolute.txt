@@ -1,0 +1,16 @@
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\bin\Debug\pooCalculoIdade.exe.config
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\bin\Debug\pooCalculoIdade.exe
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\bin\Debug\pooCalculoIdade.pdb
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.csproj.AssemblyReference.cache
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.exe
+C:\Users\ggfer\source\repos\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.pdb
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\bin\Debug\pooCalculoIdade.exe.config
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\bin\Debug\pooCalculoIdade.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\bin\Debug\pooCalculoIdade.pdb
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.csproj.AssemblyReference.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.exe
+C:\Users\ggfer\source\repos\ExerciciosPoo\pooCalculoIdade\pooCalculoIdade\obj\Debug\pooCalculoIdade.pdb
