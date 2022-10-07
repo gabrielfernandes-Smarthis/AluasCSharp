@@ -1,0 +1,8 @@
+G:\AulasC#\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
+G:\AulasC#\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
+G:\AulasC#\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
+G:\AulasC#\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.AssemblyReference.cache
+G:\AulasC#\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+G:\AulasC#\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
+G:\AulasC#\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb
