@@ -1,0 +1,11 @@
+G:\AulasC#\WindowsFormsApp\Teste\Teste\bin\Debug\Teste.exe.config
+G:\AulasC#\WindowsFormsApp\Teste\Teste\bin\Debug\Teste.exe
+G:\AulasC#\WindowsFormsApp\Teste\Teste\bin\Debug\Teste.pdb
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.Form1.resources
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.exe
+G:\AulasC#\WindowsFormsApp\Teste\Teste\obj\Debug\Teste.pdb
