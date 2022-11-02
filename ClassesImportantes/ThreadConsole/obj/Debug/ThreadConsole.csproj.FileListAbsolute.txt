@@ -1,0 +1,8 @@
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.exe
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.pdb
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csproj.AssemblyReference.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.exe
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.pdb

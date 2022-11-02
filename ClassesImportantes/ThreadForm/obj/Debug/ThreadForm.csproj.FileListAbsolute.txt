@@ -1,0 +1,22 @@
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.exe.config
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.exe
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.pdb
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.AssemblyReference.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.Form1.resources
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.Properties.Resources.resources
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.GenerateResource.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.CoreCompileInputs.cache
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.exe
+C:\Users\ggfer\OneDrive\Área de Trabalho\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.pdb
+D:\AulasC#\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.exe.config
+D:\AulasC#\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.exe
+D:\AulasC#\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.pdb
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.AssemblyReference.cache
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.SuggestedBindingRedirects.cache
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.Form1.resources
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.Properties.Resources.resources
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.GenerateResource.cache
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.CoreCompileInputs.cache
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.exe
+D:\AulasC#\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.pdb

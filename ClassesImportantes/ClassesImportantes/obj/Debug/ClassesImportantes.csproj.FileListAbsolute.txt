@@ -1,0 +1,11 @@
+D:\AulasC#\ClassesImportantes\ClassesImportantes\bin\Debug\ClassesImportantes.exe.config
+D:\AulasC#\ClassesImportantes\ClassesImportantes\bin\Debug\ClassesImportantes.exe
+D:\AulasC#\ClassesImportantes\ClassesImportantes\bin\Debug\ClassesImportantes.pdb
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.AssemblyReference.cache
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.SuggestedBindingRedirects.cache
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.Form1.resources
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.Properties.Resources.resources
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.GenerateResource.cache
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.CoreCompileInputs.cache
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.exe
+D:\AulasC#\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.pdb

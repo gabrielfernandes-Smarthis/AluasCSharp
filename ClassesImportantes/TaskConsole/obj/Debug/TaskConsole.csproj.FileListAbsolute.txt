@@ -1,0 +1,8 @@
+D:\AulasC#\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe.config
+D:\AulasC#\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe
+D:\AulasC#\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.pdb
+D:\AulasC#\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.AssemblyReference.cache
+D:\AulasC#\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.SuggestedBindingRedirects.cache
+D:\AulasC#\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+D:\AulasC#\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.exe
+D:\AulasC#\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.pdb
