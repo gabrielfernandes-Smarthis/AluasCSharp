@@ -1,0 +1,14 @@
+G:\AulasC#\BaseDeDados\BaseDeDados\bin\Debug\BaseDeDados.exe.config
+G:\AulasC#\BaseDeDados\BaseDeDados\bin\Debug\BaseDeDados.exe
+G:\AulasC#\BaseDeDados\BaseDeDados\bin\Debug\BaseDeDados.pdb
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.csproj.AssemblyReference.cache
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.Form1.resources
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.Properties.Resources.resources
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.csproj.GenerateResource.cache
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.csproj.CoreCompileInputs.cache
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.exe
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.pdb
+G:\AulasC#\BaseDeDados\BaseDeDados\bin\Debug\System.Data.SqlServerCe.dll
+G:\AulasC#\BaseDeDados\BaseDeDados\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+G:\AulasC#\BaseDeDados\BaseDeDados\obj\Debug\BaseDeDados.csproj.CopyComplete
