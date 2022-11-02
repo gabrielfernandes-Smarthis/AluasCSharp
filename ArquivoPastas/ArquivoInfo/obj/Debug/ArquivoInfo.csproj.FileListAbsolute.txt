@@ -1,0 +1,11 @@
+G:\AulasC#\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe.config
+G:\AulasC#\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe
+G:\AulasC#\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.pdb
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.AssemblyReference.cache
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Form1.resources
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Properties.Resources.resources
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.GenerateResource.cache
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.CoreCompileInputs.cache
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.exe
+G:\AulasC#\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.pdb
