@@ -1,0 +1,8 @@
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\bin\Debug\exercicioPooAvioes.exe.config
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\bin\Debug\exercicioPooAvioes.exe
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\bin\Debug\exercicioPooAvioes.pdb
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\obj\Debug\exercicioPooAvioes.csproj.AssemblyReference.cache
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\obj\Debug\exercicioPooAvioes.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\obj\Debug\exercicioPooAvioes.csproj.CoreCompileInputs.cache
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\obj\Debug\exercicioPooAvioes.exe
+G:\AulasC#\POO\exercicioPooAvioes\exercicioPooAvioes\obj\Debug\exercicioPooAvioes.pdb
