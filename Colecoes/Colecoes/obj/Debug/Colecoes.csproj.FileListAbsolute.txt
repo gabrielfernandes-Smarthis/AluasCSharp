@@ -1,0 +1,11 @@
+G:\AulasC#\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+G:\AulasC#\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+G:\AulasC#\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+G:\AulasC#\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
