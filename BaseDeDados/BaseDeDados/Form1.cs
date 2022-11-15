@@ -211,6 +211,8 @@ namespace BaseDeDados
                 comando.ExecuteNonQuery();
 
                 labelResultado.Text = "Registro alterado com sucesso";
+                textBox1.Clear();
+                textBox2.Clear();
                 comando.Dispose();
             }
             catch (Exception ex)

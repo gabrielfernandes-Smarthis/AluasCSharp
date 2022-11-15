@@ -1,0 +1,11 @@
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\bin\Debug\TratamentoDeErros.exe.config
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\bin\Debug\TratamentoDeErros.exe
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\bin\Debug\TratamentoDeErros.pdb
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.csproj.AssemblyReference.cache
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.Form1.resources
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.Properties.Resources.resources
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.csproj.GenerateResource.cache
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.csproj.CoreCompileInputs.cache
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.exe
+G:\AulasC#\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.pdb
