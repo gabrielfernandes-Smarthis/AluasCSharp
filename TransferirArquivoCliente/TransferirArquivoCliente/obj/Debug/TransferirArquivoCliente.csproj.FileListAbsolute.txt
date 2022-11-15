@@ -1,0 +1,11 @@
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.exe.config
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.exe
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.pdb
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.AssemblyReference.cache
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.Form1.resources
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.Properties.Resources.resources
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.GenerateResource.cache
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.CoreCompileInputs.cache
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.exe
+G:\AulasC#\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.pdb
