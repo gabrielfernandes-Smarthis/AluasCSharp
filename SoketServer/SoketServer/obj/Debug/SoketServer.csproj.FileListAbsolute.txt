@@ -1,0 +1,8 @@
+G:\AulasC#\SoketServer\SoketServer\bin\Debug\SoketServer.exe.config
+G:\AulasC#\SoketServer\SoketServer\bin\Debug\SoketServer.exe
+G:\AulasC#\SoketServer\SoketServer\bin\Debug\SoketServer.pdb
+G:\AulasC#\SoketServer\SoketServer\obj\Debug\SoketServer.csproj.AssemblyReference.cache
+G:\AulasC#\SoketServer\SoketServer\obj\Debug\SoketServer.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\SoketServer\SoketServer\obj\Debug\SoketServer.csproj.CoreCompileInputs.cache
+G:\AulasC#\SoketServer\SoketServer\obj\Debug\SoketServer.exe
+G:\AulasC#\SoketServer\SoketServer\obj\Debug\SoketServer.pdb

@@ -1,0 +1,8 @@
+G:\AulasC#\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe.config
+G:\AulasC#\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe
+G:\AulasC#\SocketCliente\SocketCliente\bin\Debug\SocketCliente.pdb
+G:\AulasC#\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.AssemblyReference.cache
+G:\AulasC#\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.SuggestedBindingRedirects.cache
+G:\AulasC#\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.CoreCompileInputs.cache
+G:\AulasC#\SocketCliente\SocketCliente\obj\Debug\SocketCliente.exe
+G:\AulasC#\SocketCliente\SocketCliente\obj\Debug\SocketCliente.pdb
